@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "96833354117",
+    "firebase_url": "https://camisetas-momento2.firebaseio.com",
+    "project_id": "camisetas-momento2",
+    "storage_bucket": "camisetas-momento2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96833354117:android:1ede2487abcc247d55acec",
+        "android_client_info": {
+          "package_name": "com.example.camisetas_momento2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96833354117-hiehr935l8nar21b2fvt02bkefdnm5p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuzbYN1Fux8ox1IvIaA6JtN-AqgTmNyMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96833354117-hiehr935l8nar21b2fvt02bkefdnm5p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
